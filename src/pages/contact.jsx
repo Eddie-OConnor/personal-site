@@ -45,30 +45,8 @@ const Contact = () => {
 
 						<div className="subtitle contact-subtitle">
                             Please reach out if you have any questions! I'm happy to jump on a video or phone call to brainstorm
-                            coding or or non-coding passion projects. Send me an email at eddie.oconnor3@gmail.com or connect
-                            with me on LinkedIn.
-							&nbsp;{" "}
-							<a href={`mailto:${INFO.main.email}`}>
-								{INFO.main.email}
-							</a>
-							. I make an effort to respond to all messages within
-							24 hours, although it may take me longer during busy
-							periods. Alternatively, you can use the contact form
-							on my website to get in touch. Simply fill out the
-							required fields and I'll get back to you as soon as
-							possible. Finally, if you prefer to connect on
-							social media, you can find me on{" "}
-							<a
-								href={INFO.socials.instagram}
-								target="_blank"
-								rel="noreferrer"
-							>
-								{INFO.socials.instagram}
-							</a>
-							. I post regular updates and engage with my
-							followers there, so don't hesitate to reach out.
-							Thanks again for your interest, and I look forward
-							to hearing from you!
+                            coding or or non-coding passion projects - especially ones I mentioned in the About page! Send me an 
+                            email at eddie.oconnor3@gmail.com or connect with me on the below socials.
 						</div>
 					</div>
 

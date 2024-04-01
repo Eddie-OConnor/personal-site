@@ -7,72 +7,59 @@ const INFO = {
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
+		twitter: "https://twitter.com/eddieodev",
 		github: "https://github.com/Eddie-OConnor",
 		linkedin: "https://www.linkedin.com/in/edwardjamesoconnor/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Passionate software engineer specializing in frontend work. I love building apps to solve real world challenges that are a delight to use for the end user.",
+		title: "I love building apps to solve real world challenges that are a delight to use for the end user.",
 		description:
-			"A coding curiosity (thanks Bitcoin) in late 2022 developed into a passion. My specialty at the moment is <strong>frontend development</strong>; however, I am actively researching backend technologies to build additional personal projects and add to my portfolio. These projects include, but are not limited to, tools for <strong>non-KYC verification</strong> and <strong>distinguishing AI generated content from non-AI.</strong>",
+			"A coding curiosity in late 2022 quickly evolved into a passion. While my current specialty lies in <strong>front-end development</strong>, I actively explore various technologies to expand my skillset and build a diverse array of projects.",
 	},
 
 	about: {
 		title: "Get to know me!",
 		description:
-			`My professional background is in ad tech. Most recently I was a solution engineer and collaborated with our sales team during the DSP pre sale cycle. This included giving SaaS product demos and coordinating the completion of RFIs. Additionally, I would provide platform improvement ideas to our product team based on client feedback and my own experience while being a hands on key user. When I'm not coding, I am an avid endurance athlete, home chef, bookworm, and DIYer who is as avid about 
-            those things as one can be while being a new dad.`,
+			`With a solid background in ad tech, I bring a unique blend of technical expertise and client-facing experience to the table. In my most recent role as a solution engineer, I collaborated closely with the sales team throughout the pre-sale cycle for our demand-side platform (DSP). This involved conducting SaaS product demonstrations, coordinating responses to RFIs, and leveraging my hands-on platform knowledge to provide valuable insights and improvement ideas to the product team based on client feedback.
+
+            Beyond my professional pursuits, I am an avid endurance athlete, chef, reader, home improvement DIYer, Bitcoiner, and sports fan (go Bills!). These varied interests not only fuel my personal growth but also contribute to my well-rounded perspective and a relentless desire to learn.
+            
+            As a new father, I have mastered the art of balancing multiple priorities while maintaining a strong work ethic and commitment to excellence. I thrive in dynamic environments that demand adaptability, creative problem-solving, and an unwavering pursuit of continuous improvement.`,
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Personal Site",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				`A simple and responsive web app to showcase projects, display contact information, and tell your story. Open 
+                source for experienced developers to clone/fork and accessible for no-code users to update and host on their own`,
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
+			linkText: "GitHub",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 2",
+			title: "PollyGlot",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				`PollyGlot translates any language into on of the top 12 most commonly spoken global languages. 
+                It solves the language barrier problem when traveling or anytime you encounter an individual 
+                who does not speak the same language(s) as you.`,
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			linkText: "GitHub",
+			link: "https://github.com/OConnorPortfolio/PollyGlot",
 		},
 
 		{
-			title: "Project 3",
+			title: "Sue",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				`"Sue" is derived from and a shortened version of "Sous Chef." Say goodbye to meal planning uncertainty 
+                and elevate your home cooking game with Sue's tailored recommendations, introducing you to dishes you 
+                might not have discovered on your own.`,
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+			linkText: "GitHub",
+			link: "https://github.com/OConnorPortfolio/Sue",
+		}
 	],
 };
 
