@@ -92,7 +92,11 @@ const Homepage = () => {
 								</div>
 
 								<div className="subtitle homepage-subtitle">
-									{INFO.homepage.description}
+									{/* {INFO.homepage.description} uncomment this if using the user.js is preferred*/}
+
+                                    A coding curiosity in late 2022 quickly evolved into a passion. While my current specialty lies in <strong>front-end 
+                                    development</strong>, I actively explore various technologies to expand my skillset and build a diverse array of projects.
+                                    
 								</div>
 							</div>
 

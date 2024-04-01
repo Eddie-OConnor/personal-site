@@ -42,12 +42,31 @@ const About = () => {
 						<div className="about-main">
 							<div className="about-right-side">
 								<div className="title about-title">
-									{INFO.about.title}
+									{/* {INFO.about.title}  uncomment this if building about page from user.js*/}
+
+                                    Get to know me!
+
 								</div>
 
 								<div className="subtitle about-subtitle">
-									{INFO.about.description}
-								</div>
+									{/* {INFO.about.description}  uncomment this if building about page from user.js*/}
+                                    <p>
+                                        With a solid background in ad tech, I bring a unique blend of technical expertise and client-facing experience to the 
+                                        table. In my most recent role as a solution engineer, I collaborated closely with the sales team throughout the pre-sale 
+                                        cycle for our demand-side platform (DSP). This involved conducting SaaS product demonstrations, coordinating responses 
+                                        to RFIs, and leveraging my hands-on platform knowledge to provide platform enhancement ideas to the product team.
+                                    </p>
+                                    <p>
+                                        Beyond my professional pursuits, I am an avid endurance athlete, chef, reader, home improvement DIYer, Bitcoiner, and 
+                                        sports fan. These varied interests not only fuel my personal growth but also contribute to my well-rounded 
+                                        perspective and a relentless desire to learn.
+                                    </p>
+                                    <p>
+                                        As a new father, I have mastered the art of balancing multiple priorities while maintaining a strong work ethic and commitment 
+                                        to family. I thrive in dynamic environments that demand adaptability, creative problem-solving, pursuit of improvement and 
+                                        discipline.
+                                    </p>
+                                </div>
 							</div>
 
 							<div className="about-left-side">

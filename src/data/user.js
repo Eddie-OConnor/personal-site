@@ -13,7 +13,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "I love building apps to solve real world challenges that are a delight to use for the end user.",
+		title: "I love building apps to solve real world challenges that are a delight to engage with for the end user.",
 		description:
 			"A coding curiosity in late 2022 quickly evolved into a passion. While my current specialty lies in <strong>front-end development</strong>, I actively explore various technologies to expand my skillset and build a diverse array of projects.",
 	},
@@ -40,7 +40,7 @@ const INFO = {
             ],
 			linkText1: "GitHub",
 			link1: "https://github.com",
-            linkText2: "GitHub",
+            linkText2: "Live",
 			link2: "https://github.com"
 		},
 
