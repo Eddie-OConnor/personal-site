@@ -34,9 +34,14 @@ const INFO = {
 			description:
 				`A simple and responsive web app to showcase projects, display contact information, and tell your story. Open 
                 source for experienced developers to clone/fork and accessible for no-code users to update and host on their own`,
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "GitHub",
-			link: "https://github.com",
+			logos: [
+                "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+                "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"
+            ],
+			linkText1: "GitHub",
+			link1: "https://github.com",
+            linkText2: "GitHub",
+			link2: "https://github.com"
 		},
 
 		{
@@ -45,9 +50,14 @@ const INFO = {
 				`PollyGlot translates any language into on of the top 12 most commonly spoken global languages. 
                 It solves the language barrier problem when traveling or anytime you encounter an individual 
                 who does not speak the same language(s) as you.`,
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "GitHub",
-			link: "https://github.com/OConnorPortfolio/PollyGlot",
+            logos: [
+                "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+                "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"
+            ],
+			linkText1: "GitHub",
+			link1: "https://github.com/OConnorPortfolio/PollyGlot",
+            linkText2: "Live",
+			link2: "https://polly-glot.netlify.app/"
 		},
 
 		{
@@ -56,9 +66,14 @@ const INFO = {
 				`"Sue" is derived from and a shortened version of "Sous Chef." Say goodbye to meal planning uncertainty 
                 and elevate your home cooking game with Sue's tailored recommendations, introducing you to dishes you 
                 might not have discovered on your own.`,
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "GitHub",
-			link: "https://github.com/OConnorPortfolio/Sue",
+            logos: [
+                "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+                "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"
+            ],
+			linkText1: "GitHub",
+			link1: "https://github.com/OConnorPortfolio/Sue",
+            linkText2: "Live",
+			link2: "https://sue-chef.netlify.app/"
 		}
 	],
 };

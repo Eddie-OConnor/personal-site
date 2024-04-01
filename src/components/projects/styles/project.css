@@ -17,7 +17,7 @@
 	transition: background-color 0.3s ease-in-out;
 }
 
-.project:hover .project-link {
+.project:hover .project-links {
 	color: var(--link-color);
 	transition: color 0.3s ease-in-out;
 }
@@ -26,11 +26,14 @@
 	padding: 30px;
 }
 
-.project-logo {
+.project-logos {
 	width: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
 }
 
-.project-logo img {
+.project-logos img {
 	width: 100%;
 }
 
@@ -47,7 +50,7 @@
 	color: var(--secondary-color);
 }
 
-.project-link {
+.project-links {
 	display: flex;
 	align-items: center;
 	color: var(--secondary-color);
@@ -63,6 +66,11 @@
 .project-link-text {
 	padding-left: 20px;
 	font-weight: 700;
+}
+
+.project-link-text:hover {
+	color: var(--link-color);
+	transition: color 0.1s ease-in-out, font-weight 0.1s ease-in-out;
 }
 
 @media (max-width: 600px) {
