@@ -35,8 +35,10 @@ const INFO = {
 				`A simple and responsive web app to showcase projects, display contact information, and tell your story. Open 
                 source for experienced developers to clone/fork and accessible for no-code users to update and host on their own`,
 			logos: [
+                "../react-icon.png",
                 "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-                "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"
+                "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png",
+
             ],
 			linkText1: "GitHub",
 			link1: "https://github.com",
@@ -52,7 +54,9 @@ const INFO = {
                 who does not speak the same language(s) as you.`,
             logos: [
                 "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-                "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"
+                "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png",
+                "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.png",
+                "../openai-icon.png",
             ],
 			linkText1: "GitHub",
 			link1: "https://github.com/OConnorPortfolio/PollyGlot",
@@ -68,7 +72,9 @@ const INFO = {
                 might not have discovered on your own.`,
             logos: [
                 "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-                "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"
+                "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png",
+                "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.png",
+                "../openai-icon.png",
             ],
 			linkText1: "GitHub",
 			link1: "https://github.com/OConnorPortfolio/Sue",
