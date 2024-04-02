@@ -38,7 +38,6 @@ const INFO = {
                 "../react-icon.png",
                 "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
                 "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png",
-
             ],
 			linkText1: "GitHub",
 			link1: "https://github.com",
