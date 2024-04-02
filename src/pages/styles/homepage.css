@@ -8,7 +8,7 @@
 }
 
 .homepage-container {
-	padding-top: 25px;
+	padding-top: 120px;
 }
 
 .homepage-first-area {
@@ -108,7 +108,8 @@
 
 	.homepage-title {
 		width: 100% !important;
-		margin-top: 20px;
+		margin-top: 100px;
+        padding-top: 30px;
 		order: 2;
 	}
 
@@ -124,8 +125,8 @@
 	}
 
 	.homepage-image-container {
-		padding-top: 50px;
-		padding-bottom: 50px;
+		padding-top: 20px;
+		padding-bottom: 20px;
 		margin-left: 10px;
 		order: 1;
 	}

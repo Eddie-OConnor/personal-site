@@ -75,6 +75,6 @@
 
 @media (max-width: 600px) {
 	.project {
-		height: 300px;
+		height: calc(100% / 2);
 	}
 }
