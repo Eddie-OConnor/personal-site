@@ -6,22 +6,15 @@ import Footer from "../components/common/footer";
 import Socials from "../components/about/socials";
 
 import INFO from "../data/user";
-import SEO from "../data/seo";
 
 import "./styles/contact.css";
 
 const Contact = () => {
-	const currentSEO = SEO.find((item) => item.page === "contact");
 
 	return (
 		<React.Fragment>
 			<Helmet>
 				<title>{`Contact | ${INFO.main.title}`}</title>
-				<meta name="description" content={currentSEO.description} />
-				<meta
-					name="keywords"
-					content={currentSEO.keywords.join(", ")}
-				/>
 			</Helmet>
 
 			<div className="page-content">
