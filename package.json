@@ -1,14 +1,13 @@
 {
-	"name": "reactfolio",
-	"version": "1.1.0",
-	"description": "Personal portfolio template built using Reactjs",
+	"name": "personal-site",
+	"version": "1.0.0",
+	"description": "Personal professional site template built using Reactjs",
 	"author": {
-		"name": "Tharindu N. Madhusanka",
-		"email": "mail@tharindu.dev",
-		"url": "https://tharindu.dev"
+		"name": "Eddie O'Connor",
+		"email": "eddie.oconnor3@gmail.com",
+		"url": "https://tbd.com"
 	},
 	"license": "MIT",
-	"private": true,
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.4.0",
 		"@fortawesome/free-brands-svg-icons": "^6.4.0",

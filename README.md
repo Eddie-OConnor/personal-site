@@ -85,7 +85,11 @@ Directory: `/src/data/`
 
 ## 🚀 Launching the Site with Cloudflare
 
-1. 
+1. Create Cloudflare account
+2. NAvigate to Workers & Pages
+3. Create new page
+4. Connect to your cloned Git repo
+5. Input `npm run build` as build command and `build` as location
 
 ## 🌱 Future improvements and Contributions
 
