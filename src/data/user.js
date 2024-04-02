@@ -34,6 +34,8 @@ const INFO = {
 			description:
 				`A simple and responsive web app to showcase projects, display contact information, and tell your story. Open 
                 source for experienced developers to clone/fork and accessible for no-code users to update and host on their own`,
+            
+            // I recommend not exceeding four logos here, leads to a poor mobile UX
 			logos: [
                 "../react-icon.png",
                 "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
