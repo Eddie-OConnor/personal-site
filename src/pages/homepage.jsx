@@ -1,5 +1,4 @@
-import React from "react";
-import { Helmet } from "react-helmet";
+import React, { useEffect } from "react";
 
 import { faMailBulk } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -28,11 +27,12 @@ const Homepage = () => {
 
     const codedTitle = ''
 
+    useEffect(() => {
+		document.title = `${INFO.main.title}`;
+	}, []);
+
 	return (
 		<React.Fragment>
-			<Helmet>
-				<title>{INFO.main.title}</title>
-			</Helmet>
 
 			<div className="page-content">
 				<NavBar active="home" />

@@ -1,5 +1,4 @@
-import React from "react";
-import { Helmet } from "react-helmet";
+import React, { useEffect } from "react";
 
 import NavBar from "../components/common/navBar";
 import Footer from "../components/common/footer";
@@ -25,11 +24,12 @@ const Contact = () => {
         </span>
     )
 
+    useEffect(() => {
+		document.title = `Contact | ${INFO.main.title}`;
+	}, []);
+
 	return (
 		<React.Fragment>
-			<Helmet>
-				<title>{`Contact | ${INFO.main.title}`}</title>
-			</Helmet>
 
 			<div className="page-content">
 				<NavBar active="contact" />
