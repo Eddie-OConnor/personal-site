@@ -11,6 +11,20 @@ import "./styles/contact.css";
 
 const Contact = () => {
 
+    const codedDescription = (
+        <span>
+            Please reach out if you have any questions! I'm happy to jump on a video or phone call to brainstorm
+            coding or or non-coding passion projects - especially ones I mentioned in the About page! Send me an
+            email at eddie.oconnor3@gmail.com or connect with me on the below socials.
+        </span>
+    )
+
+    const codedTitle = (
+        <span>
+            Please get in touch!
+        </span>
+    )
+
 	return (
 		<React.Fragment>
 			<Helmet>
@@ -22,13 +36,11 @@ const Contact = () => {
 				<div className="content-wrapper">
 					<div className="contact-container">
 						<div className="title contact-title">
-							Please get in touch!
+                            {INFO.contact.title !== "" ? INFO.contact.title : codedTitle}
 						</div>
 
 						<div className="subtitle contact-subtitle">
-                            Please reach out if you have any questions! I'm happy to jump on a video or phone call to brainstorm
-                            coding or or non-coding passion projects - especially ones I mentioned in the About page! Send me an 
-                            email at eddie.oconnor3@gmail.com or connect with me on the below socials.
+                            {INFO.contact.description !== "" ? INFO.contact.description : codedDescription}
 						</div>
 					</div>
 

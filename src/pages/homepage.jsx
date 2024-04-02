@@ -19,6 +19,15 @@ import "./styles/homepage.css";
 
 const Homepage = () => {
 
+    const codedDescription = (
+        <span>
+            A coding curiosity in late 2022 quickly evolved into a passion. While my current specialty lies in <strong>front-end development</strong>, 
+            I actively explore various technologies to expand my skillset and build a diverse array of projects.
+        </span>
+    )
+
+    const codedTitle = ''
+
 	return (
 		<React.Fragment>
 			<Helmet>
@@ -32,15 +41,11 @@ const Homepage = () => {
 						<div className="homepage-first-area">
 							<div className="homepage-first-area-left-side">
 								<div className="title homepage-title">
-									{INFO.homepage.title}
+									{INFO.homepage.title !== "" ? INFO.homepage.title : codedTitle}
 								</div>
 
 								<div className="subtitle homepage-subtitle">
-									{/* {INFO.homepage.description} uncomment this if using the user.js is preferred*/}
-
-                                    A coding curiosity in late 2022 quickly evolved into a passion. While my current specialty lies in <strong>front-end 
-                                    development</strong>, I actively explore various technologies to expand my skillset and build a diverse array of projects.
-                                    
+									{INFO.homepage.description !== "" ? INFO.homepage.description : codedDescription}
 								</div>
 							</div>
 

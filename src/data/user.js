@@ -14,18 +14,17 @@ const INFO = {
 
 	homepage: {
 		title: "I love building apps to solve real world challenges that are a delight to engage with for the end user.",
-		description:
-			"A coding curiosity in late 2022 quickly evolved into a passion. While my current specialty lies in <strong>front-end development</strong>, I actively explore various technologies to expand my skillset and build a diverse array of projects.",
+		description: "",
 	},
 
 	about: {
 		title: "Get to know me!",
-		description:
-			`With a solid background in ad tech, I bring a unique blend of technical expertise and client-facing experience to the table. In my most recent role as a solution engineer, I collaborated closely with the sales team throughout the pre-sale cycle for our demand-side platform (DSP). This involved conducting SaaS product demonstrations, coordinating responses to RFIs, and leveraging my hands-on platform knowledge to provide valuable insights and improvement ideas to the product team based on client feedback.
+		description: "",
+	},
 
-            Beyond my professional pursuits, I am an avid endurance athlete, chef, reader, home improvement DIYer, Bitcoiner, and sports fan (go Bills!). These varied interests not only fuel my personal growth but also contribute to my well-rounded perspective and a relentless desire to learn.
-            
-            As a new father, I have mastered the art of balancing multiple priorities while maintaining a strong work ethic and commitment to excellence. I thrive in dynamic environments that demand adaptability, creative problem-solving, and an unwavering pursuit of continuous improvement.`,
+    contact: {
+		title: "",
+		description: "",
 	},
 
 	projects: [
