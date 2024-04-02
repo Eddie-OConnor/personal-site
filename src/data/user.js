@@ -40,7 +40,7 @@ const INFO = {
                 "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png",
             ],
 			linkText1: "GitHub",
-			link1: "https://github.com",
+			link1: "https://github.com/Eddie-OConnor/personal-site",
             linkText2: "Live",
 			link2: "https://github.com"
 		},
@@ -58,7 +58,7 @@ const INFO = {
                 "../openai-icon.png",
             ],
 			linkText1: "GitHub",
-			link1: "https://github.com/OConnorPortfolio/PollyGlot",
+			link1: "https://github.com/Eddie-OConnor/PollyGlot",
             linkText2: "Live",
 			link2: "https://polly-glot.netlify.app/"
 		},
@@ -76,7 +76,7 @@ const INFO = {
                 "../openai-icon.png",
             ],
 			linkText1: "GitHub",
-			link1: "https://github.com/OConnorPortfolio/Sue",
+			link1: "https://github.com/Eddie-OConnor/Sue",
             linkText2: "Live",
 			link2: "https://sue-chef.netlify.app/"
 		}
