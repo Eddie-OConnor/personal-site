@@ -2,8 +2,7 @@
 
 Simple and responsive professional website for software-engineers to showcase projects, display contact information, and tell your story.
 
-<br/>
-<strong>👀<a href="https://eddie-oconnor.com/" target="_blank">Live Site Demo</a></strong>
+<strong>👀 <a href="https://eddie-oconnor.com/" target="_blank">Live Site Demo</a></strong>
 <br/>
 
 <center>
