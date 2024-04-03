@@ -9,12 +9,12 @@ Simple and responsive professional website for software-engineers to showcase pr
 Live demo here: <a href="" target="_blank">TBD</a>
 <br/>
 
--   [Features](#📙-features)
--   [Installation and Setup](#🛠-installation-and-setup)
--   [Structure](#📁-structure)
--   [Quick Configurations](#⚙️-quick-configurations)
--   [Launch](#🚀-launching-the-site-with-cloudflare)
--   [Future improvements and Contributions](#🌱-future-improvements-and-contributions)
+-   [Features](#-features)
+-   [Installation and Setup](#-installation-and-setup)
+-   [Structure](#-structure)
+-   [Quick Configurations](#-quick-configurations)
+-   [Launch](#-launching-the-site-with-cloudflare)
+-   [Future improvements and Contributions](#-future-improvements-and-contributions)
 
 ## 📙 Features
 
@@ -34,7 +34,7 @@ Live demo here: <a href="" target="_blank">TBD</a>
 3. Then run `npm start` which will run the app in development mode and open a new browser tab
 4. If the browser does not automatically open, look for the local port url in the terminal which will look something like this `Local:http://localhost:3000`
 5. Make changes and see them reflected in the browser when saved
-6. Continued instructions for novice coders in the [Quick Configurations](#⚙️-quick-configurations) section
+6. Continued instructions for novice coders in the [Quick Configurations](#-quick-configurations) section
 
 ## 📁 Structure
 
