@@ -6,13 +6,12 @@ Simple and responsive professional website for software-engineers to showcase pr
     <img src="public\homepage-screenshot.png" alt="personal-react-site image" />
 </center>
 
-<strong><a href="https://eddie-oconnor.com/" target="_blank">Live Site</a></strong>
-<br/>
+## 👀 <strong><a href="https://eddie-oconnor.com/" target="_blank">Live Site</a></strong>
 
 -   [Features](#-features)
 -   [Installation and Setup](#-installation-and-setup)
 -   [Structure](#-structure)
--   [Quick Configurations](#-quick-configurations)
+-   [Quick Configurations](#-%EF%B8%8F-quick-configurations)
 -   [Launch](#-launching-the-site-with-cloudflare)
 -   [Future improvements and Contributions](#-future-improvements-and-contributions)
 
