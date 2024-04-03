@@ -25,7 +25,11 @@ const Homepage = () => {
         </span>
     )
 
-    const codedTitle = ''
+    const codedTitle = (
+        <span>
+            I love building apps to solve real world challenges that are a delight to engage with for the end user.
+        </span>
+    )
 
     useEffect(() => {
 		document.title = `${INFO.main.title}`;

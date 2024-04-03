@@ -13,16 +13,21 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "I love building apps to solve real world challenges that are a delight to engage with for the end user.",
+		title: "",
 		description: "",
 	},
 
 	about: {
-		title: "Get to know me!",
+		title: "",
 		description: "",
 	},
 
     contact: {
+		title: "",
+		description: "",
+	},
+
+    project: {
 		title: "",
 		description: "",
 	},
