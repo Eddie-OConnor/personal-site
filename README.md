@@ -2,13 +2,13 @@
 
 Simple and responsive professional website for software-engineers to showcase projects, display contact information, and tell your story.
 
-<center>
-    <img src="public\homepage-screenshot.png" alt="personal-react-site image" />
-</center>
-
 <br/>
 <strong>👀<a href="https://eddie-oconnor.com/" target="_blank">Live Site Demo</a></strong>
 <br/>
+
+<center>
+    <img src="public\homepage-screenshot.png" alt="personal-react-site image" />
+</center>
 
 -   [Features](#-features)
 -   [Installation and Setup](#-installation-and-setup)
