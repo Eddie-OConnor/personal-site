@@ -6,7 +6,7 @@ Simple and responsive professional website for software-engineers to showcase pr
     <img src="public\homepage-screenshot.png" alt="personal-react-site image" />
 </center>
 
-Live demo here: <a href="" target="_blank">TBD</a>
+<strong><a href="https://eddie-oconnor.com/" target="_blank">Live Site</a></strong>
 <br/>
 
 -   [Features](#-features)
