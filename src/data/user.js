@@ -48,13 +48,13 @@ const INFO = {
 			linkText1: "GitHub",
 			link1: "https://github.com/Eddie-OConnor/personal-site",
             linkText2: "Live",
-			link2: "https://github.com"
+			link2: "https://eddie-oconnor.com/"
 		},
 
 		{
 			title: "PollyGlot",
 			description:
-				`PollyGlot translates any language into on of the top 12 most commonly spoken global languages. 
+				`PollyGlot translates any language into one of the top 12 most commonly spoken global languages. 
                 It solves the language barrier problem when traveling or anytime you encounter an individual 
                 who does not speak the same language(s) as you.`,
             logos: [

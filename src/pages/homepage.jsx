@@ -21,7 +21,7 @@ const Homepage = () => {
     const codedDescription = (
         <span>
             A coding curiosity in late 2022 quickly evolved into a passion. While my current specialty lies in <strong>front-end development</strong>, 
-            I actively explore various technologies to expand my skillset and build a diverse array of projects.
+            I actively explore various technologies to expand my skill set and build a diverse array of projects.
         </span>
     )
 
