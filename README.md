@@ -51,8 +51,9 @@ Live demo here: <a href="" target="_blank">TBD</a>
 -   `user.js` - Update the displayed text and images throughout the site by simply updating each field to the desired text or image file path.
 
 -   `styles.css` - Change the font colors and font families of the whole application without editing any other code files. Simply erase the values, input a new color or font, then hit save.
-    - [Here](https://www.w3schools.com/colors/colors_picker.asp) is a good tool to see and copy color codes to input below
+    - [Here](https://www.w3schools.com/colors/colors_picker.asp) is a good tool to see and copy color codes to input below when using `styles.css`
     - Visit [Google Fonts](https://fonts.google.com/) to browse and select fonts by adding them to your cart. View your selected families, then click `<> get embed code` and select `@import` to copy/paste your new import url into `index.css`. You will then be able to globally update the site's fonts by choosing new primary and secondary fonts in `styles.css`
+<br/>
 
     ```css
     :root {
