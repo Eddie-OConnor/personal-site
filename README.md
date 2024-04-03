@@ -83,4 +83,4 @@ Live demo here: <a href="" target="_blank">TBD</a>
 
 ## 🌱 Future improvements and Contributions
 
-I welcome any and all feedback and ideas from seasoned developers and novice users! Please reference 
+I welcome any and all feedback and ideas from seasoned developers and novice users! Please reference `github\templates` when doing so.
