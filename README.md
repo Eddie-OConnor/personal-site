@@ -3,7 +3,7 @@
 Simple and responsive professional website for software-engineers to showcase projects, display contact information, and tell your story.
 
 <center>
-<img src="" alt="personal-react-site image" />
+    <img src="public\homepage-screenshot.png" alt="personal-react-site image" />
 </center>
 
 Live demo here: <a href="" target="_blank">tbd</a>
@@ -30,17 +30,11 @@ Live demo here: <a href="" target="_blank">tbd</a>
 ## 🛠 Installation and Setup
 
 1. Clone the repository
-
 2. Ensure `NodeJS` and `git` are installed on your computer
-
 2. Run `npm install` in the terminal
-
 3. Then run `npm start` which will run the app in development mode and open a new browser tab
-
 4. If the browser does not automatically open, look for the local port url in the terminal which will look something like this `Local:http://localhost:3000`
-
 5. Make changes and see them reflected in the browser when saved
-
 6. Continued instructions for novice coders in the [Configurations](#-configurations) section
 
 ## 📁 Structure
@@ -86,10 +80,11 @@ Directory: `/src/data/`
 ## 🚀 Launching the Site with Cloudflare
 
 1. Create Cloudflare account
-2. NAvigate to Workers & Pages
+2. Navigate to Workers & Pages
 3. Create new page
 4. Connect to your cloned Git repo
 5. Input `npm run build` as build command and `build` as location
+6. Investigate setting up a custom URL (optional)
 
 ## 🌱 Future improvements and Contributions
 
