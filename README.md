@@ -3,7 +3,7 @@
 Simple and responsive professional website for software-engineers to showcase projects, display contact information, and tell your story.
 
 <center>
-    <img src="public\homepage-screenshot.png" alt="personal-react-site image" style="border: 2px solid black; border-radius: 10px;"/>
+    <img src="public\homepage-screenshot.png" alt="personal-react-site image" />
 </center>
 
 Live demo here: <a href="" target="_blank">tbd</a>
