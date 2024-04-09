@@ -63,7 +63,7 @@ const About = () => {
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
-											src="about.jpg"
+											src="https://res.cloudinary.com/dexjsh4sa/image/upload/v1712609541/about_pxxxy1.jpg"
 											alt="about"
 											className="about-image"
 										/>
